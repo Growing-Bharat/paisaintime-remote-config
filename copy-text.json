@@ -1,0 +1,119 @@
+{
+  "splashScreenData": [
+    {
+      "key": "1",
+      "title": "Empower your dreams",
+      "subTitle": "With Lending Bharat, your dreams just should turn into reality.",
+      "imageUrl": "https://sawalsha-prod.blr1.digitaloceanspaces.com/assets/lb-splash-1.png"
+    },
+    {
+      "key": "2",
+      "title": "Shopping, Travelling or Neccesity?",
+      "subTitle": "Just share your requriement and your docuemnts! Track your application status in app",
+      "imageUrl": "https://sawalsha-prod.blr1.digitaloceanspaces.com/assets/lb-splash-2.png"
+    },
+    {
+      "key": "3",
+      "title": "Make it Rain",
+      "subTitle": "With easy approval process, get your loan in no time!",
+      "imageUrl": "https://sawalsha-prod.blr1.digitaloceanspaces.com/assets/lb-splash-3.png"
+    }
+  ],
+  "authHeader": "Your trusted partner in personal loans",
+  "hi": "Hi,",
+  "authInputSubtext": "Enter your mobile number to continue",
+  "sendOTPCTAText": "Send OTP",
+  "weHaveSentOTP": "We have sent a OTP to",
+  "resendOTP": "Did not recieve the OTP?",
+  "personalDetails": "Help us get to know you better!",
+  "incomeDetails": "Now, let's talk about your finances.",
+  "loanDetails": "Loan Details",
+  "location": "Tell us where you're based!",
+  "panAadhaar": "Almost there!",
+  "documents": "Final touch! Upload necessary documents.",
+  "fillPersonalDetails": "Fill out your personal details",
+  "enterName": "Enter full name (as on PAN card)",
+  "enterEmail": "Enter email (personal)",
+  "selectGender": "Select your gender",
+  "enterDob": "Enter date of birth (as on Aadhaar)",
+  "enterPAN": "Enter your PAN number",
+  "enterAadhaar": "Enter your Aadhaar number",
+  "selectSalaryBracket": "Select your monthly in-hand salary",
+  "selectSalaryMode": "Select your salary mode",
+  "selectLoanRequirement": "Select your loan requirement",
+  "selectTenure": "Select EMI tenure",
+  "selectLoanPurpose": "Select loan purpose",
+  "selectCity": "Select city",
+  "great": "Great!",
+  "loanApplied": "Loan applied!",
+  "applicationDetails": "Below is your application details",
+  "approvalPendingText": "While our team is looking into your application, you can proceed with giving us your basic information.",
+  "uploadDocuments": "Upload documents",
+  "sameAsCurrentAddress": "My current address same as permanent address",
+  "addCurrentAndPermanentAddress": "Please add your current and permanent address",
+  "addReferenceSubHeader": "Add 2 references",
+  "addReferenceDetailsFormHeader": "Enter your reference's details",
+  "allDoneText": "You did it!",
+  "allDoneSubtext": "Thank you for your cooperation.",
+  "allDoneSubtext2": "We shall notify you soon about your loan approval amount.",
+  "allDoneInformationText": "The information submitted is assumed to be true to your knowledge and any discrepancy can result in rejection of your application.",
+  "uploadDocumentsText": "Please choose the document you'd like to upload.",
+  "enterBankDetails": "Enter your bank details",
+  "customerLoanText": "Customize your loan amount & EMI details",
+  "minLoanAmount": "₹ 25,000",
+  "emiPlan": "Plans are available @2.99% monthly",
+  "eligibleText": "You are eligible for upto",
+  "noUpcomingText": "Wohoo! No upcoming payments!",
+  "FAQ": [
+    {
+      "id": "1",
+      "title": "What is a personal loan?",
+      "answer": "A personal loan is an unsecured loan provided by financial institutions, such as banks or NBFCs, to individuals for various personal purposes. Unlike secured loans, personal loans do not require collateral."
+    },
+    {
+      "id": "3",
+      "title": "What can I use personal loan for?",
+      "answer": "Personal loans can be used for a variety of purposes, including debt consolidation, home improvements, medical expenses, travel, weddings, or any other major personal expenses."
+    },
+    {
+      "id": "4",
+      "title": "How much can I borrow with a personal loan?",
+      "answer": "The loan amount can you borrow depends on several factos, such as your creditworthiness, income, and the lender's policies. Typically, personal loan offered by LendingBharat range from ₹10,000 to ₹2,00,000."
+    },
+    {
+      "id": "5",
+      "title": "What is repayment period for a personal loan?",
+      "answer": "Personal loan terms vary, but at LendingBharat it range from 6 to 12 months. Shorter loan terms mean higher monthly payments but lower overall interest costs."
+    },
+    {
+      "id": "6",
+      "title": "How do LendingBharat determine my eligibility for a personal loan?",
+      "answer": "We consider several factors, including your credit score, income, employment history, existing debts, and the loan amount you're requesting. A higher credit score and a stable income increase your chances of approval."
+    },
+    {
+      "id": "7",
+      "title": "What is the interest rate for a personal loan?",
+      "answer": "Interest rates on personal loans can vary widely based on your creditworthiness and the lender's policies. Generally, borrowers with better credit scores receive lower interest rates ranging from 24-60% PA."
+    },
+    {
+      "id": "8",
+      "title": "Are there any fees associated with personal loans?",
+      "answer": "Yes, personal loans may come with various fees, such as origination fees, prepayment penalties, or late payment fees. It's essential to review our fee structure before accepting the loan."
+    },
+    {
+      "id": "9",
+      "title": "Can I get a personal loan with bad credit?",
+      "answer": "It might be challenging to get a personal loan with bad credit, but some lenders specialize in offering loans to individuals with lower credit scores. However, these loans might have higher interest rates."
+    },
+    {
+      "id": "10",
+      "title": "How long does it take toy get approved for a personal loan?",
+      "answer": "The approval process varies among lenders & banks, but it typically takes a few days to a couple of weeks. But here at LendingBharat, we approve & disburse your loan within 24 hours."
+    },
+    {
+      "id": "11",
+      "title": "Can I prepay or pay off my personal loan early?",
+      "answer": "We allow early repayment without any prepayment penalties. Paying off your loan early can save you money on interest.Remember, before applying for a personal loan, it's crucial to assess your financial situation, compare offers from different lenders, and read the terms and conditions carefully to make an informed decision."
+    }
+  ]
+}
