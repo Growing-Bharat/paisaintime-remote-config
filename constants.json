@@ -55,11 +55,6 @@
       "key": "1",
       "value": "Salaried",
       "label": "Salaried"
-    },
-    {
-      "key": "2",
-      "value": "Self Employed",
-      "label": "Self Employed"
     }
   ],
   "LoanPurpose": [
