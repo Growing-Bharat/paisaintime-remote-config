@@ -196,6 +196,16 @@
       "key": "13",
       "value": "Ahmedabad",
       "label": "Ahmedabad"
+    },
+    {
+      "key": "14",
+      "value": "Jaipur",
+      "label": "Jaipur"
+    },
+   {
+      "key": "15",
+      "value": "Coimbatore",
+      "label": "Coimbatore"
     }
   ],
   "relations": [
