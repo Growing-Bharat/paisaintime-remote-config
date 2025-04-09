@@ -59,21 +59,6 @@
   ],
   "LoanPurpose": [
     {
-      "key": "1",
-      "value": "Travel Fund Shortage",
-      "label": "Travel Fund Shortage"
-    },
-    {
-      "key": "2",
-      "value": "Immediate Commitment",
-      "label": "Immediate Commitment"
-    },
-    {
-      "key": "3",
-      "value": "Immediate Purchase",
-      "label": "Immediate Purchase"
-    },
-    {
       "key": "4",
       "value": "Clear Bills",
       "label": "Clear Bills"
@@ -94,25 +79,15 @@
       "label": "Medical Emergency"
     },
     {
-      "key": "8",
-      "value": "Buying Gadgets",
-      "label": "Buying Gadgets"
-    },
-    {
       "key": "9",
       "value": "Wedding Expenses",
       "label": "Wedding Expenses"
     },
     {
       "key": "10",
-      "value": "Home Interiors",
-      "label": "Home Interiors"
+      "value": "Others",
+      "label": "Others"
     },
-    {
-      "key": "11",
-      "value": "Down payment shortfall",
-      "label": "Down payment shortfall"
-    }
   ],
   "LoanTenure": [
     {
